@@ -23,4 +23,4 @@ else
     echo "No new files found."
 fi
 
-xxxxxx
+# === End of script ===
