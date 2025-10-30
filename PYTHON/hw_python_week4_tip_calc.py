@@ -41,7 +41,7 @@ def advanced_tip_calculator():
     sum_for_each_person = total_bill / number_of_people
 
     print("\n" + "=" * 35)
-    print("✅ FINAL BREAKDOWN:")
+    print(":")
     
   
     for name in people_names:
