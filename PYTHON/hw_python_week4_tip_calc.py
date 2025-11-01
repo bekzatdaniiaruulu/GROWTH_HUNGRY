@@ -45,7 +45,7 @@ def advanced_tip_calculator():
     
   
     for name in people_names:
-        print(f"💰 {name} needs to pay: ${sum_for_each_person:.2f}")
+        print(f" {name} needs to pay: ${sum_for_each_person:.2f}")
     print("=" * 35)
 
 advanced_tip_calculator()
